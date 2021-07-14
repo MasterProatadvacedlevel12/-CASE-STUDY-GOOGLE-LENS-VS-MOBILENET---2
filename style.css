@@ -1,0 +1,19 @@
+.mini_result{
+    background-color: gray;
+    border-radius: 20px;
+    height: 100%;
+    box-shadow: 5px 5px 5px cyan;
+    text-align: center;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: limegreen;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 15px;
+    background-color: orange;
+    text-align: center;
+}
